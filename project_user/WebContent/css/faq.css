@@ -1,0 +1,40 @@
+.maindiv
+{
+	height:auto;
+	width:800px;
+	border-style:solid;
+	border-width:5px;
+	border-color:#D3D3D3;
+	margin-left:20%;
+	margin-top:15px;
+	/* box-shadow:5px 5px 5px 5px; */
+}
+.que
+{
+	font-size:20px;
+	font-family:'Hind', sans-serif;
+	src: url('../contact fonts/poppins/Poppins-Regular.ttf');
+	color:black;
+	font-weight:bold;
+	margin-left:7px;
+	margin-top:20px;
+}
+.ans
+{
+	font-size:17px;
+	font-family:'Hind', sans-serif;
+	src: url('../contact fonts/poppins/Poppins-Regular.ttf');
+	color:black;
+	margin-top:-5px;
+	margin-left:23px;
+	
+}
+.title
+{
+	font-size:30px;
+	font-family:'Hind', sans-serif;
+	src: url('../contact fonts/poppins/Poppins-Regular.ttf');
+	color:#F8694A;
+	font-weight:bold;
+	margin-left:7px;
+}
